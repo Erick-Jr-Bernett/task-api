@@ -23,7 +23,7 @@ El proyecto sigue una arquitectura basada en separación de responsabilidades:
 Se implementó autenticación basada en tokens usando Laravel Sanctum.
 
 ## Instalación
-git clone <repo>
+git clone -b main https://github.com/Erick-Jr-Bernett/task-api.git task-api
 cd task-api
 composer install
 cp .env.example .env
