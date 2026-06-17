@@ -1,7 +1,7 @@
 # Task API - Prueba Técnica Erick Bernett
 
 ![PHP](https://img.shields.io/badge/PHP-8+-777BB4?logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?logo=laravel)
+![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?logo=laravel)
 ![MySQL](https://img.shields.io/badge/MySQL-8-4479A1?logo=mysql)
 
 ## Descripción
